@@ -8,7 +8,7 @@ We have a master branch aptly named "Master"
 and we have a develop branch named, you guessed it "Develop"
 
 
-A few Scenarios
+##A few Scenarios
 
 Consider the following ticket:
 
@@ -24,7 +24,7 @@ Consider the following ticket:
 3. File **2.html** should contain the following text: 
   1. "This is file 2"
 
-All work done, should be done off of "develop"
+###How to git command
 
 1. Go to develop.
   1. `git checkout develop`
